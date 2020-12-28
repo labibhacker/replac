@@ -16,9 +16,9 @@ echo $i" |"$cy"     BANGLADESH LAC TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
 echo $i" |"$pu" AUTHOR :"$ku" LEGENDS AND CRIMINALS  [FR13ND8]"$i"          |"
 echo $i" |"$pu" FACEBOOK :"$ku" Labib Mirza"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.SONI] [MR.B]"$i"  |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [MR.LEON] [MR.SONI] [MR.BOKUL]"$i"  |"
 echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 01765174849"$i"             |"
+echo $i" |"$pu" Contack WhatsApp :"$ku" 01721831153"$i"             |"
 echo $i" |"$pu" Contack Gmail :"$ku" legends.and.criminals@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
@@ -255,7 +255,7 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 01765174849"
+echo $ku"WhatsApp :"$i" 01721831153"
 echo $ku"Facebook :"$i" Labib Mirza"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
